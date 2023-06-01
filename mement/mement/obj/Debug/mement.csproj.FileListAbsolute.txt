@@ -1,0 +1,8 @@
+C:\Users\karon\source\repos\mementomori\mement\mement\bin\Debug\mement.exe.config
+C:\Users\karon\source\repos\mementomori\mement\mement\bin\Debug\mement.exe
+C:\Users\karon\source\repos\mementomori\mement\mement\bin\Debug\mement.pdb
+C:\Users\karon\source\repos\mementomori\mement\mement\obj\Debug\mement.csproj.AssemblyReference.cache
+C:\Users\karon\source\repos\mementomori\mement\mement\obj\Debug\mement.csproj.SuggestedBindingRedirects.cache
+C:\Users\karon\source\repos\mementomori\mement\mement\obj\Debug\mement.csproj.CoreCompileInputs.cache
+C:\Users\karon\source\repos\mementomori\mement\mement\obj\Debug\mement.exe
+C:\Users\karon\source\repos\mementomori\mement\mement\obj\Debug\mement.pdb

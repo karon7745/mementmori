@@ -19,7 +19,7 @@ namespace mement
         }
     }
 
-    class Battel
+    public class Battel
     {
         enum Janken : byte
         {
@@ -34,11 +34,6 @@ namespace mement
         {
             janken[0] = (Janken)Enum.ToObject(typeof(Janken), n);
             return janken[0].ToString();
-        }
-
-        public void kk(int n, int m)
-        {
-            int num = n + m;
         }
     }
 }
