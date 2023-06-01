@@ -10,7 +10,35 @@ namespace mement
     {
         static void Main(string[] args)
         {
-        int n = 0;
+            int my, ene = 0;
+            Console.WriteLine("じゃんけんの手を選んでください");
+            Console.Write("1.グー　2.チョキ　3.パー:");
+            my = int.Parse(Console.ReadLine());
+            Battel battel = new Battel();
+
+        }
+    }
+
+    class Battel
+    {
+        enum Janken : byte
+        {
+            グー = 1,
+            チョキ,
+            パー
+        }
+
+        Janken[] janken = new Janken[2];
+
+        public string Jan(int n)
+        {
+            janken[0] = (Janken)Enum.ToObject(typeof(Janken), n);
+            return janken[0].ToString();
+        }
+
+        public void kk(int n, int m)
+        {
+            int num = n + m;
         }
     }
 }
