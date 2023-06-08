@@ -8,6 +8,7 @@ namespace mement
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
             int my, ene = 0;
@@ -18,6 +19,8 @@ namespace mement
 
         }
     }
+
+    
 
     public class Battel
     {
@@ -35,5 +38,11 @@ namespace mement
             janken[0] = (Janken)Enum.ToObject(typeof(Janken), n);
             return janken[0].ToString();
         }
+
+        public bool test(int anser)
+        {
+            return 1 + 1 == anser;
+        }
+
     }
 }

@@ -21,5 +21,12 @@ namespace Ust
             string n = "チョキ";
             Assert.AreEqual(cc.Jan(2), n);
         }
+
+        [TestMethod]
+        public void TestMethod3()
+        {
+            
+            Assert.AreEqual(cc.test(2),true);
+        }
     }
 }

@@ -6,3 +6,11 @@ C:\Users\karon\source\repos\mementomori\mement\mement\obj\Debug\mement.csproj.Su
 C:\Users\karon\source\repos\mementomori\mement\mement\obj\Debug\mement.csproj.CoreCompileInputs.cache
 C:\Users\karon\source\repos\mementomori\mement\mement\obj\Debug\mement.exe
 C:\Users\karon\source\repos\mementomori\mement\mement\obj\Debug\mement.pdb
+C:\Users\よよ\Downloads\memo\mement\mement\bin\Debug\mement.exe.config
+C:\Users\よよ\Downloads\memo\mement\mement\bin\Debug\mement.exe
+C:\Users\よよ\Downloads\memo\mement\mement\bin\Debug\mement.pdb
+C:\Users\よよ\Downloads\memo\mement\mement\obj\Debug\mement.csproj.AssemblyReference.cache
+C:\Users\よよ\Downloads\memo\mement\mement\obj\Debug\mement.csproj.SuggestedBindingRedirects.cache
+C:\Users\よよ\Downloads\memo\mement\mement\obj\Debug\mement.csproj.CoreCompileInputs.cache
+C:\Users\よよ\Downloads\memo\mement\mement\obj\Debug\mement.exe
+C:\Users\よよ\Downloads\memo\mement\mement\obj\Debug\mement.pdb
