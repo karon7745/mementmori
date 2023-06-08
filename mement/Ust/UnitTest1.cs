@@ -25,7 +25,7 @@ namespace Ust
         [TestMethod]
         public void TestMethod3()
         {
-            
+            //吉村亜梨奈がやりました
             Assert.AreEqual(cc.test(2),true);
         }
     }
